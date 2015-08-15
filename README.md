@@ -6,8 +6,8 @@ My Notes
 
 Local python environment
 
-    $ python -v
-    $ pip -v
+    $ python -V
+    $ pip -V
 
     $ [sudo] pip install virtualenv
     $ virtualenv env
